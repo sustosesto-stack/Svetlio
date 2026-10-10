@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 group-title="BG - BG 14",BNT 1 HD
+http://85.11.189.178:8080/BNT1HD/index.m3u8
+#EXTINF:-1 group-title="BG - BG 14",BNT 3 HD
+http://85.11.189.178:8080/BNTHD/index.m3u8
+#EXTINF:-1 group-title="BG - BG 14",bTV
+http://85.11.189.178:8080/bTV/index.m3u8
+#EXTINF:-1 group-title="BG - BG 14",bTV Action
+http://85.11.189.178:8080/bTVAction/index.m3u8
+#EXTINF:-1 group-title="BG - BG 14",bTV Cinema
+http://85.11.189.178:8080/bTVCinema/index.m3u8
+#EXTINF:-1 group-title="BG - BG 14",bTV Comedy
+http://85.11.189.178:8080/bTVComedy/index.m3u8
+#EXTINF:-1 group-title="BG - BG 14",bTV Story
+http://85.11.189.178:8080/bTVLady/index.m3u8
+#EXTINF:-1 group-title="BG - BG 14",Diema Sport 3 HD
+http://85.11.189.178:8080/DiemaSport3HD/index.m3u8
+#EXTINF:-1 group-title="BG - BG 14",JimJam HD
+http://85.11.189.178:8080/JimJam/index.m3u8
